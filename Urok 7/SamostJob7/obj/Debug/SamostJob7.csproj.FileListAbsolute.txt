@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 7\SamostJob7\bin\Debug\SamostJob7.exe.config
+D:\source\repos\C#\Urok 7\SamostJob7\bin\Debug\SamostJob7.exe
+D:\source\repos\C#\Urok 7\SamostJob7\bin\Debug\SamostJob7.pdb
+D:\source\repos\C#\Urok 7\SamostJob7\obj\Debug\SamostJob7.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 7\SamostJob7\obj\Debug\SamostJob7.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 7\SamostJob7\obj\Debug\SamostJob7.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 7\SamostJob7\obj\Debug\SamostJob7.exe
+D:\source\repos\C#\Urok 7\SamostJob7\obj\Debug\SamostJob7.pdb

@@ -1,0 +1,8 @@
+D:\source\repos\C#\Exam\chernovik\bin\Debug\chernovik.exe.config
+D:\source\repos\C#\Exam\chernovik\bin\Debug\chernovik.exe
+D:\source\repos\C#\Exam\chernovik\bin\Debug\chernovik.pdb
+D:\source\repos\C#\Exam\chernovik\obj\Debug\chernovik.csproj.AssemblyReference.cache
+D:\source\repos\C#\Exam\chernovik\obj\Debug\chernovik.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Exam\chernovik\obj\Debug\chernovik.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Exam\chernovik\obj\Debug\chernovik.exe
+D:\source\repos\C#\Exam\chernovik\obj\Debug\chernovik.pdb

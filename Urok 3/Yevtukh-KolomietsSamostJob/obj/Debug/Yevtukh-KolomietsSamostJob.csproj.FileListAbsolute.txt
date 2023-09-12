@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\obj\Debug\Yevtukh-KolomietsSamostJob.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\obj\Debug\Yevtukh-KolomietsSamostJob.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\obj\Debug\Yevtukh-KolomietsSamostJob.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\bin\Debug\Yevtukh-KolomietsSamostJob.exe.config
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\bin\Debug\Yevtukh-KolomietsSamostJob.exe
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\bin\Debug\Yevtukh-KolomietsSamostJob.pdb
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\obj\Debug\Yevtukh-KolomietsSamostJob.exe
+D:\source\repos\C#\Urok 3\Yevtukh-KolomietsSamostJob\obj\Debug\Yevtukh-KolomietsSamostJob.pdb

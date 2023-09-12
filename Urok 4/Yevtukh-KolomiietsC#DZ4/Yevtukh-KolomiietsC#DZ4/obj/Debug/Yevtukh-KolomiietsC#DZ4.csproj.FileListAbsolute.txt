@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\obj\Debug\Yevtukh-KolomiietsC#DZ4.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\obj\Debug\Yevtukh-KolomiietsC#DZ4.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\obj\Debug\Yevtukh-KolomiietsC#DZ4.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\bin\Debug\Yevtukh-KolomiietsC#DZ4.exe.config
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\bin\Debug\Yevtukh-KolomiietsC#DZ4.exe
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\bin\Debug\Yevtukh-KolomiietsC#DZ4.pdb
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\obj\Debug\Yevtukh-KolomiietsC#DZ4.exe
+D:\source\repos\C#\Urok 4\Yevtukh-KolomiietsC#DZ4\Yevtukh-KolomiietsC#DZ4\obj\Debug\Yevtukh-KolomiietsC#DZ4.pdb

@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 12\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+D:\source\repos\C#\Urok 12\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+D:\source\repos\C#\Urok 12\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+D:\source\repos\C#\Urok 12\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 12\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 12\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 12\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+D:\source\repos\C#\Urok 12\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 12\DZ12\obj\Debug\DZ12.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 12\DZ12\obj\Debug\DZ12.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 12\DZ12\obj\Debug\DZ12.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 12\DZ12\bin\Debug\DZ12.exe.config
+D:\source\repos\C#\Urok 12\DZ12\bin\Debug\DZ12.exe
+D:\source\repos\C#\Urok 12\DZ12\bin\Debug\DZ12.pdb
+D:\source\repos\C#\Urok 12\DZ12\obj\Debug\DZ12.exe
+D:\source\repos\C#\Urok 12\DZ12\obj\Debug\DZ12.pdb

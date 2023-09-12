@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\obj\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\obj\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\obj\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\bin\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.exe.config
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\bin\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.exe
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\bin\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.pdb
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\obj\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.exe
+D:\source\repos\C#\Urok 10\DZ10\ConsoleAppDZ10_Yevtukh-Kolomiiets\obj\Debug\ConsoleAppDZ10_Yevtukh-Kolomiiets.pdb

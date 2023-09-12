@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\bin\Debug\Yevtukh-KolomiietsC#DZ2.exe.config
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\bin\Debug\Yevtukh-KolomiietsC#DZ2.exe
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\bin\Debug\Yevtukh-KolomiietsC#DZ2.pdb
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\obj\Debug\Yevtukh-KolomiietsC#DZ2.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\obj\Debug\Yevtukh-KolomiietsC#DZ2.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\obj\Debug\Yevtukh-KolomiietsC#DZ2.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\obj\Debug\Yevtukh-KolomiietsC#DZ2.exe
+D:\source\repos\C#\Urok 2\Yevtukh-KolomiietsC#DZ2\obj\Debug\Yevtukh-KolomiietsC#DZ2.pdb

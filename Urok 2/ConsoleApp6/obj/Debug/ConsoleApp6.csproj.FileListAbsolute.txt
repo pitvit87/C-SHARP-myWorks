@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 2\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\source\repos\C#\Urok 2\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\source\repos\C#\Urok 2\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\source\repos\C#\Urok 2\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 2\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 2\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 2\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\source\repos\C#\Urok 2\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

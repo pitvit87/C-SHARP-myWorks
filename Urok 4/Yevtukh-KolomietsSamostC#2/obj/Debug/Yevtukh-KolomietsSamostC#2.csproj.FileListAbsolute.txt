@@ -1,0 +1,8 @@
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\obj\Debug\Yevtukh-KolomietsSamostC#2.csproj.AssemblyReference.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\obj\Debug\Yevtukh-KolomietsSamostC#2.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\obj\Debug\Yevtukh-KolomietsSamostC#2.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\bin\Debug\Yevtukh-KolomietsSamostC#2.exe.config
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\bin\Debug\Yevtukh-KolomietsSamostC#2.exe
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\bin\Debug\Yevtukh-KolomietsSamostC#2.pdb
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\obj\Debug\Yevtukh-KolomietsSamostC#2.exe
+D:\source\repos\C#\Urok 4\Yevtukh-KolomietsSamostC#2\obj\Debug\Yevtukh-KolomietsSamostC#2.pdb
